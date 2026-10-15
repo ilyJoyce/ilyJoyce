@@ -4,6 +4,6 @@
 
 ### Professions (?):
 - Producer
-- Student
+- Medical assistant
 - Developer
 - Larping Queen
